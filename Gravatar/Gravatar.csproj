@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>GravatarMagno</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>ALEXANDRO DA SILVA</Authors>
+    <Description>O pacote contem uma extension do gravatar</Description>
+    <RepositoryUrl>https://github.com/alexandrosilvaagile/Gravatar</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/alexandrosilvaagile/Gravatar</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Copyright 2022 (c) Contoso Corporation. All rights reserved.</Copyright>
+    <PackageTags>gravatar</PackageTags>
   </PropertyGroup>
 
 </Project>
